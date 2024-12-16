@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.11.35327.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TpT", "TpT\TpT.csproj", "{61AE5852-9A47-4856-B9C5-68A7E8FA7563}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "docs", "TpT\docs.csproj", "{61AE5852-9A47-4856-B9C5-68A7E8FA7563}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BDF745DF-35D2-42C6-B537-B787363EA341}"
 	ProjectSection(SolutionItems) = preProject
